@@ -13,6 +13,10 @@ The project created a dashboard to answer the following business questions so as
 ## Data Source
 The raw data was obtained from Kaggle. See [HR Analytics Dataset (kaggle.com) ](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset)https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset
 
+## Tools Used 
+- Microsoft Excel
+- Tableau Buiseness Intelligence visualization 
+
 ## Dashboard
 
 ![image](https://github.com/Fkuukyee/Employee-Analytics-Dashboard-in-Tableau/assets/147086232/b1786e0b-82ae-4695-b386-547c2ce3d80a)
